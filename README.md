@@ -1,6 +1,4 @@
-# Urdu Neural NLP Pipeline — Assignment 2
-**Student:** Munazat (i23-2545)
-**Course:** CS-4063 (Natural Language Processing)
+# Urdu Neural NLP Pipeline 
 
 This repository contains a complete neural NLP pipeline for the Urdu language, featuring word embedding generation, sequence labeling (POS & NER), and topic classification using a Transformer model.
 
@@ -57,6 +55,3 @@ i23-2545-NLP-Assignment2/
    Open the `i23-2545_Assignment2_DS-A.ipynb` notebook and run all cells. The models will load pre-trained embeddings and execute the full evaluation suite.
 3. **Outputs**:
    Metrics and visualizations will be generated in the `embeddings/` folder and displayed inline.
-
----
-*Verified for final submission.*
